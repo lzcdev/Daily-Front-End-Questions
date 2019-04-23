@@ -6,6 +6,7 @@
 
 ### CSS
 * [怎么让一个div水平垂直居中](https://github.com/lzcdev/Daily-Front-End-Questions/issues/2)
+* [已知如下代码，如何修改才能让图片宽度为 300px ？注意下面代码不可修改](https://github.com/lzcdev/Daily-Front-End-Questions/issues/8)
 
 ### JavaScript
 
