@@ -9,7 +9,7 @@
 * [已知如下代码，如何修改才能让图片宽度为 300px ？注意下面代码不可修改](https://github.com/lzcdev/Daily-Front-End-Questions/issues/8)
 
 ### JavaScript
-
+[下面的代码输出什么](https://github.com/lzcdev/Daily-Front-End-Questions/issues/9)
 ### jQuery
 
 ### Bootstrap
