@@ -9,9 +9,11 @@
 * [已知如下代码，如何修改才能让图片宽度为 300px ？注意下面代码不可修改](https://github.com/lzcdev/Daily-Front-End-Questions/issues/8)
 
 ### JavaScript
-[下面的代码输出什么](https://github.com/lzcdev/Daily-Front-End-Questions/issues/9)
-[输出什么？（Event Loop）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/10)
-[输出什么？](https://github.com/lzcdev/Daily-Front-End-Questions/issues/11)
+* [下面的代码输出什么](https://github.com/lzcdev/Daily-Front-End-Questions/issues/9)
+* [输出什么？（Event Loop）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/10)
+* [输出什么？](https://github.com/lzcdev/Daily-Front-End-Questions/issues/11)
+* [暂时性死区 ](https://github.com/lzcdev/Daily-Front-End-Questions/issues/12)
+* [为什么需要用块级作用域？](https://github.com/lzcdev/Daily-Front-End-Questions/issues/13)
 
 ### jQuery
 
