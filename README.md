@@ -16,6 +16,7 @@
 * [为什么需要用块级作用域？](https://github.com/lzcdev/Daily-Front-End-Questions/issues/13)
 * [输出什么？（对象的解构）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/14)
 * [输出什么？（字符串解构）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/15)
+* [输出什么？（箭头函数）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/16)
 
 ### jQuery
 
