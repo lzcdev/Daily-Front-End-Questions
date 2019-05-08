@@ -34,6 +34,7 @@
 * [前端需要注意哪些SEO](https://github.com/lzcdev/Daily-Front-End-Questions/issues/3)
 * [如何进行网站性能优化 ](https://github.com/lzcdev/Daily-Front-End-Questions/issues/4)
 * [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/lzcdev/Daily-Front-End-Questions/issues/17)
+* [输出什么？（++i和i++）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/18)
 
 
 
