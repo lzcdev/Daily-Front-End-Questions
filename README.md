@@ -19,6 +19,8 @@
 * [输出什么？（箭头函数）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/16)
 * [输出什么？（map和parseInt）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/19)
 * [二维数组转化成一维数组（reduce）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/20)
+* [对象数组去重（reduce）](https://github.com/lzcdev/Daily-Front-End-Questions/issues/21)
+
 ### jQuery
 
 ### Bootstrap
