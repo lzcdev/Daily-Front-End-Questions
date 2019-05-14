@@ -40,6 +40,7 @@
 * 请描述一下 cookies，sessionStorage 和 localStorage 的区别？- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/17)
 * 输出什么？（++i和i++）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/18)
 * 常见的浏览器内核有哪些？- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/22)
+* 怎么让Chrome支持小于12px 的文字？ - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/24)
 
 
 
