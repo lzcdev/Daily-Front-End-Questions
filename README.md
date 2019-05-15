@@ -32,6 +32,7 @@
 
 ### 网络
 * HTTP状态码及其含义 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/5)
+* 网页从输入网址到渲染完成经历了哪些过程？ - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/25)
 ### 数据结构
 ### 算法
 ###  其他
