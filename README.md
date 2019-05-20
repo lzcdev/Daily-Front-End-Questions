@@ -3,6 +3,7 @@
 ### HTML
 * iframe有哪些缺点？- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/6)
 * 语义化的理解 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/7)
+* 请描述一下 cookies，sessionStorage 和 localStorage 的区别 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/28)
 
 ### CSS
 * 怎么让一个div水平垂直居中 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/2)
