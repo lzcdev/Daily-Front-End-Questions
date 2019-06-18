@@ -3,7 +3,7 @@
 ### HTML
 * iframe有哪些缺点？- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/6)
 * 语义化的理解 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/7)
-* 请描述一下 cookies，sessionStorage 和 localStorage 的区别 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/28)
+* HTML5的存储方案有哪些  - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/28)
 
 ### CSS
 * 怎么让一个div水平垂直居中 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/2)
@@ -15,6 +15,7 @@
 * 下面的代码输出什么 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/9)
 * 输出什么？（Event Loop）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/10)
 * 输出什么？（ var 和 let ）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/11)
+* 输出什么？（变量被提升、暂时性死区）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/29)
 * 暂时性死区 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/12)
 * 为什么需要用块级作用域？- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/13)
 * 输出什么？（对象的解构）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/14)
