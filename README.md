@@ -15,15 +15,18 @@
 * 下面的代码输出什么 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/9)
 * 输出什么？（Event Loop）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/10)
 * 输出什么？（ var 和 let ）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/11)
+* 输出什么？（let和var） - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/30)
 * 输出什么？（变量被提升、暂时性死区）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/29)
 * 暂时性死区 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/12)
 * 为什么需要用块级作用域？- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/13)
 * 输出什么？（对象的解构）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/14)
 * 输出什么？（字符串解构）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/15)
 * 输出什么？（箭头函数）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/16)
+* 输出什么？（箭头函数） - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/31) 
 * 输出什么？（map和parseInt）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/19)
 * 二维数组转化成一维数组（reduce）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/20)
 * 对象数组去重（reduce）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/21)
+* 输出什么？（static） - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/32)
 
 ### jQuery
 
