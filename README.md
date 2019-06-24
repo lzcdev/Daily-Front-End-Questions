@@ -27,6 +27,7 @@
 * 二维数组转化成一维数组（reduce）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/20)
 * 对象数组去重（reduce）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/21)
 * 输出什么？（static） - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/32)
+* 输出什么？（隐式类型转换） - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/33)
 
 ### jQuery
 
