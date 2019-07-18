@@ -17,6 +17,7 @@
 * 输出什么？（ var 和 let ）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/11)
 * 输出什么？（let和var） - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/30)
 * 输出什么？（变量被提升、暂时性死区）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/29)
+* 输出什么？（变量提升） - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/35)
 * 暂时性死区 - [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/12)
 * 为什么需要用块级作用域？- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/13)
 * 输出什么？（对象的解构）- [链接](https://github.com/lzcdev/Daily-Front-End-Questions/issues/14)
